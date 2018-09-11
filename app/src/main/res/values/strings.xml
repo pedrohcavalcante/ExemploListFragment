@@ -3,8 +3,8 @@
     <string-array name="alimentosNomes">
         <item>Café</item>
         <item>Feijão</item>
-        <item>Açúcar</item>
         <item>Macarrão</item>
+        <item>Açúcar</item>
         <item>Tempero</item>
         <item>Tudo que há de bom</item>
     </string-array>
