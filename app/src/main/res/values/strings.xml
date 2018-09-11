@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ExemploListFragment</string>
+    <string-array name="alimentosNomes">
+        <item>Café</item>
+        <item>Feijão</item>
+        <item>Açúcar</item>
+        <item>Macarrão</item>
+        <item>Tempero</item>
+        <item>Tudo que há de bom</item>
+    </string-array>
+    <string-array name="alimentosPrecos">
+        <item>5.40</item>
+        <item>3.20</item>
+        <item>4.90</item>
+        <item>6.50</item>
+        <item>0.00</item>
+        <item>2.00</item>
+    </string-array>
+</resources>
