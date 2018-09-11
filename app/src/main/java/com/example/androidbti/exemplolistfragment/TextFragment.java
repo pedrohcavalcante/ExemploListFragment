@@ -19,4 +19,8 @@ public class TextFragment extends Fragment {
         textView = view.findViewById(R.id.txtMsg);
         return view;
     }
+
+    public void setTextView(String texto){
+        textView.setText(texto);
+    }
 }
